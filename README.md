@@ -1,3 +1,22 @@
+# LICENSE NOTICE
+<details>
+  <summary>Details</summary>
+  
+  _**This**_ repo was cloned from this template: https://github.com/Snazzah/slash-create-worker
+  That template is released under the same license as: [`SLASH-CREATE`](https://github.com/Snazzah/slash-create) which is the MIT license.
+
+  <details>
+    <summary>Evidence</summary>
+    
+   ![image](https://github.com/CrazyKidJack/TallyTimer/assets/43480837/8da9b4b9-3d4b-42a3-813b-436698833f32)
+   ![image](https://github.com/CrazyKidJack/TallyTimer/assets/43480837/5553d6d8-a7ea-4fa1-bda6-5676d6636c30)
+  </details>
+  
+  Any modifications to the original template code will be tracked by Git. All of those changes are licensed under AGPL-3.0+, the text of which can be found [here](LICENSE).
+  
+  The text of the MIT license can be found [here](.MIT-LICENSE).
+</details>
+
 # /create with Cloudflare Workers
 
 A [slash-create](https://npm.im/slash-create) template, using [Cloudflare Workers](https://workers.cloudflare.com).
