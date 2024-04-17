@@ -12,6 +12,9 @@
     "lint": "eslint --ext .ts .",
     "lint:fix": "eslint --ext .ts . --fix"
   },
+  "overrides": {
+    "undici": "~5.28.4"
+  },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20231025.0",
     "@typescript-eslint/eslint-plugin": "^6.10.0",
@@ -20,8 +23,8 @@
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.1",
     "prettier": "^3.0.0",
-    "slash-create": "^6.0.1",
+    "slash-create": "^6.1.2",
     "slash-up": "^1.4.2",
-    "wrangler": "^3.15.0"
+    "wrangler": "^3.50.0"
   }
 }
